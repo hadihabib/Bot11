@@ -1,0 +1,1 @@
+worker: python 3.10.2 Bot1.py
